@@ -1,0 +1,7 @@
+hdi <- read.table("C:/Users/jderiggi/Documents/ndi_un/ndi.csv",row.names=1, header=TRUE, sep=',')
+hdi <- na.omit(hdi)
+hdi <- scale(hdi)
+d <- dist(hdi, method='euclidean')
+fit <-hclust(d, method='ward')
+svg(filename="Std_SVGcluster.svg", height=40, width=60)
+plot(fit)
