@@ -3,4 +3,6 @@ The [HDI Dataset](http://hdr.undp.org/sites/default/files/hdi_series_cartagena.x
 
 The next stop is figuring out what the clusters are and that is where dendrograms can help
 
+![hdidendrogram](/hdidendogram2.png "HDI")
+
 
