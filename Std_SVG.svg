@@ -43,9 +43,9 @@
      inkscape:window-height="900"
      id="namedview2227"
      showgrid="false"
-     inkscape:zoom="0.075424722"
+     inkscape:zoom="0.30169889"
      inkscape:cx="954.43601"
-     inkscape:cy="2833.3214"
+     inkscape:cy="2435.5738"
      inkscape:window-x="-8"
      inkscape:window-y="-30"
      inkscape:window-maximized="1"
@@ -1045,7 +1045,7 @@
      transform="matrix(0,0.40625,-0.40625,0,1462.5,-292.5)">
     <g
        id="g6088"
-       transform="matrix(0.40355901,0,0,0.40355901,-857.57408,1086.7412)"
+       transform="matrix(0.4451927,0,0,0.40883112,-1228.6361,971.77785)"
        style="stroke:none;stroke-width:8.01914692;stroke-miterlimit:10;stroke-dasharray:none"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
@@ -9209,8 +9209,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.99547577px;line-height:125%;font-family:Rockwell;-inkscape-font-specification:'Rockwell, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-482.50864"
-       y="1290.5071"
+       x="-645.68713"
+       y="1297.0342"
        id="text6208"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"
@@ -9218,14 +9218,14 @@
        inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan9197"
-         x="-428.70871"
-         y="1290.5071">A <tspan
+         x="-623.43823"
+         y="1297.0342">A <tspan
    style="font-weight:bold;fill:#ffffff"
    id="tspan9203">DENDROGRAM</tspan> FOR THE </tspan><tspan
          sodipodi:role="line"
          id="tspan9199"
-         x="-482.50845"
-         y="1559.5066">UNDP <tspan
+         x="-645.68707"
+         y="1408.2786">UNDP 2013 <tspan
    style="font-weight:bold;fill:#ffffff"
    id="tspan9201">HUMAN DEVELOPMENT INDEX</tspan></tspan></text>
     <text
